@@ -1,0 +1,2574 @@
+101001,groin
+101001,adhesions
+101001,polyglactin
+101001,pneumoperitoneum
+101001,scrotum
+101001,navel
+101001,abdomen
+101001,muscular
+101001,defect
+101001,thigh
+101001,bowel
+101002,groin
+101002,general surgery
+101002,scrotum
+101002,navel
+101002,abdomen
+101002,muscular
+101002,defect
+101002,thigh
+101002,bowel
+101002,adhesions
+101002,polyglactin
+101002,pneumoperitoneum
+101003,groin
+101003,scrotum
+101003,navel
+101003,abdomen
+101003,muscular
+101003,defect
+101003,thigh
+101003,bowel
+101003,mesh
+101003,niddk
+101003,truss
+101003,fac
+101003,lump
+101003,lymph
+101003,glaucoma
+101004,groin
+101004,general surgery
+101004,swell
+101004,ava
+101004,cough
+101004,clinic
+101004,children
+101004,surgeon
+101004,limb
+101004,overnight
+101004,abdomen
+101004,thigh
+101004,symptom
+101004,repair
+101004,canal
+101004,cincinnati
+101004,yoga
+101004,risk
+101005,groin
+101005,general surgery
+101005,scrotum
+101005,navel
+101005,abdomen
+101005,muscular
+101005,defect
+101005,thigh
+101005,bowel
+101005,adhesions
+101005,polyglactin
+101005,pneumoperitoneum
+101006,groin
+101006,general surgery
+101006,floor
+101006,scrotum
+101006,navel
+101006,abdomen
+101006,muscular
+101006,defect
+101006,thigh
+101006,bowel
+101006,mesh
+101006,incision
+101006,discomfort
+101006,jama
+101006,symptom
+101006,recur
+101006,indirect
+101006,omaha
+101006,repair
+101006,niddk
+101006,truss
+101006,fac
+101006,lump
+101006,lymph
+101006,glaucoma
+102001,anal skin tags
+102001,anal qualifier value
+102001,anus
+102001,treatment options
+102001,friction
+102001,scalpel
+102001,collagen
+102001,groin
+102001,buttock
+102001,dermatologist
+102001,overweight
+102001,vagin
+102001,eyelid
+102001,bloodroot
+102001,thuja
+102001,armpit
+102001,melaleuca
+102001,cider
+102001,fissur
+102001,sulphur
+102001,cream
+102001,thigh
+102001,discomfort
+102001,bowel
+102002,anal qualifier value
+102002,anus
+102002,fissur
+102002,friction
+102002,groin
+102002,sulphur
+102002,cream
+102002,thigh
+102002,discomfort
+102002,bowel
+102002,bloodroot
+102002,thuja
+102002,armpit
+102002,melaleuca
+102002,cider
+102002,eyelid
+102002,scalpel
+102002,collagen
+102002,buttock
+102002,dermatologist
+102002,overweight
+102002,vagin
+102003,operate remove
+102003,anesthesia
+102003,groin
+102003,snip
+102003,nitrogen
+102003,wart
+102003,thigh
+102003,benign
+102003,eyelid
+102003,dermatologist
+102003,painless
+102003,herbal
+102003,cider
+102003,numb
+102003,hydrogen
+102004,anal qualifier value
+102004,anus
+102004,friction
+102004,scalpel
+102004,collagen
+102004,groin
+102004,buttock
+102004,dermatologist
+102004,overweight
+102004,vagin
+102004,eyelid
+102004,fissur
+102004,sulphur
+102004,cream
+102004,thigh
+102004,discomfort
+102004,bowel
+102004,haemorrhoid
+102004,fistula
+102004,submucosa
+102004,faecal
+102004,sphincter
+102004,pph
+102004,pusa
+102004,rectum
+102005,general anesthesia
+102005,anal qualifier value
+102005,anus
+102005,haemorrhoid
+102005,fistula
+102005,submucosa
+102005,fissur
+102005,faecal
+102005,sphincter
+102005,pph
+102005,pusa
+102005,rectum
+102005,rectosigmoid
+102005,ampulla
+102005,lymphogranuloma
+102005,ruga
+102005,stenos
+102005,sigmoid
+102005,bedpan
+102005,coccyx
+102005,spire
+102005,orthoptist
+102005,condyloma
+102005,hypospadia
+102005,nuchal
+102005,echocardiogram
+102005,electrosurg
+102005,anaesthesia
+102006,anal qualifier value
+102006,anus
+102006,physician
+102006,assay of lidocaine
+102006,fissur
+102006,friction
+102006,groin
+102006,sulphur
+102006,cream
+102006,thigh
+102006,discomfort
+102006,bowel
+102006,calcipotriol
+102006,daivobet
+102006,dantrium
+102006,daivonex
+102006,daktacort
+102006,daktarin
+102006,dalacin
+102006,clinoril
+102006,prezista
+102006,diabeta
+102006,bloodroot
+102006,thuja
+102006,armpit
+102006,melaleuca
+102006,cider
+102006,eyelid
+103001,peripheral blood
+103001,actreason donation
+103001,charitable contribution
+103002,iron increased
+103002,abnormally high
+103002,dietary iron
+103003,peripheral blood
+103003,actreason donation
+103003,charitable contribution
+103004,hypertension
+103004,blood pressure finding
+103004,peripheral blood
+103004,abnormally high
+103005,actual blood loss
+103005,peripheral blood
+103006,dental base
+103006,peripheral blood
+103006,actreason donation
+103006,charitable contribution
+103006,hydrosalpinx
+103006,fascial
+103006,coccyx
+103006,cah
+103006,cranial
+103006,fsh
+103006,sacrum
+103006,fascia
+103006,cta
+103006,cranium
+104001,cough adverse event
+104001,nasopharynx
+104001,medulla
+104001,bordetella
+104001,sclera
+104001,croup
+104001,mycobacterium
+104001,mucosa
+104001,sternum
+104002,egg laying
+104003,cough adverse event
+104004,asleep
+104005,cough adverse event
+104006,rhinorrhea
+104006,nasal procedure
+104006,cough adverse event
+105001,water consumption
+105001,abnormally high
+105001,water sample
+105001,drinking water
+105002,water sample
+105003,diabetes mellitus
+105004,water sample
+105004,drinking water
+105004,hyponatremia
+105004,hypothyroid
+105004,serum
+105004,sodium
+105004,congest
+105004,pneumonia
+105004,poison
+105004,renal
+105004,coma
+105004,restless
+105004,xhtml
+105004,liter
+105004,liquid
+105004,admin
+105004,disorient
+105004,bloodstream
+105004,1051
+105004,pretzel
+105004,dill
+105004,slur
+105004,sweat
+105004,uy
+105005,water sample
+105006,water sample
+106001,multivitamin
+106001,insomnia adverse event
+106002,upon awakening
+106004,insomnia adverse event
+106004,adomet
+106004,hydroxytryptophan
+106004,valerian
+106004,melatonin
+106004,tryptophan
+106004,serotonin
+106004,hypothyroid
+106004,gaba
+106004,milligram
+106006,anxiety disorder
+106006,anxiety symptoms
+106006,af
+106006,serotonin
+106006,agoraphobia
+106006,ocd
+106006,postpartum
+106006,paxil
+106006,adhd
+106006,abrupt
+106006,zoloft
+106006,relief
+107001,irregular menstruation
+107001,hemoptysis
+107001,clinical trial period
+107001,time period
+107001,peripheral blood
+107002,dark color
+107002,peripheral blood
+107003,cough adverse event
+107004,hemoptysis
+107004,clinical trial period
+107004,time period
+107004,peripheral blood
+107004,aspergilloma
+107004,sputum
+107004,interstitium
+107004,telangiectasia
+107004,thromboplastin
+107004,tachypnea
+107004,oropharynx
+107004,hematuria
+107004,mitral
+107004,contus
+107005,hemoptysis
+107005,peripheral blood
+107006,hemoptysis
+107006,peripheral blood
+108001,messagewaitingpriority
+108001,thyroid gland
+108001,pharmacokinetics metabolism
+108001,bcma
+108001,tsh
+108001,thyroglobulin
+108001,t4
+108001,hyperthyroid
+108001,thyroxin
+108001,hypothyroid
+108001,goiter
+108002,thyroid agent
+108002,depressed symptom
+108002,thyroid gland
+108002,myxedema
+108002,thyrotropin
+108002,hypothyroid
+108002,thyroxin
+108002,trh
+108002,hashimoto
+108002,tsh
+108002,prolactin
+108002,hyperthyroid
+108002,propylthiouracil
+108002,postpartum
+108002,eclampsia
+108002,immunoglobulin
+108002,partum
+108002,placenta
+108003,pharmacokinetics metabolism
+108004,thyroid gland
+108004,logical condition
+108004,weight symptom finding
+108004,obesity adverse event
+108004,pharmacokinetics metabolism
+108005,thyroid agent
+108005,thyroid gland
+108006,messagewaitingpriority
+108006,pharmacokinetics metabolism
+108006,thyroid gland
+109001,white color
+109002,white color
+109002,entire eye
+109002,syringoma
+109002,supraclavicular
+109002,axilla
+109002,neoplasm
+109002,cuboid
+109002,stroma
+109002,eosinophil
+109002,benign
+109002,lesion
+109003,hyperpigment
+109003,melanin
+109003,derm
+109003,tretinoin
+109003,pigment
+109003,lighten
+109003,inflam
+109003,inflamm
+109003,estrogen
+109004,white color
+109004,milia
+109004,blackhead
+109004,acn
+109004,estrogen
+109004,glycol
+109004,pore
+109004,whitehead
+109004,dermatologist
+109004,eyeglass
+109004,tendon
+109005,white color
+109006,subsequent trial activity
+109006,adjacent
+109006,entire eye
+110001,severe extremity pain
+110001,stenosi
+110001,biofeedback
+110001,subgroup
+110001,mri
+110001,spinal
+110001,abnorm
+110001,chronic
+110001,symposium
+110001,fm
+110001,raynaud
+110001,sacroiliac
+110001,tendin
+110001,carpal
+110001,rheumatologist
+110001,fir
+110001,tired
+110001,glove
+110001,garment
+110002,milnacipran
+110002,polymyalgia
+110002,myalgia
+110002,manikin
+110002,cbt
+110002,glutam
+110002,ligament
+110002,tendon
+110002,symptom
+110002,positron
+110002,opioid
+110002,placebo
+110002,savella
+110002,vioxx
+110002,nsaid
+110002,ultram
+110002,ibuprofen
+110003,cervicalgia
+110003,procedure on shoulder
+110004,feeling relief
+110004,savella
+110004,polymyalgia
+110004,myalgia
+110004,vioxx
+110004,nsaid
+110004,tendon
+110004,ligament
+110004,ultram
+110004,ibuprofen
+110006,musk
+110006,jojoba
+110006,papaya
+110006,serotonin
+110006,peppermint
+110006,radish
+110006,spasm
+110006,oil
+110006,symptom
+110006,abnorm
+110006,bladder
+110006,bowel
+110006,arthritin
+110006,enkephalin
+110006,doxepin
+110006,chondroitin
+110006,zolpidem
+110006,endorphin
+110006,tendon
+110006,gout
+110006,hypnotherapist
+111001,thyroid gland
+111001,aspects of signs
+111001,multinodular
+111001,struma
+111001,myxedema
+111001,goiter
+111001,hyperthyroid
+111001,rutabaga
+111001,hashimoto
+111001,tsh
+111001,hypercalcemia
+111001,facp
+111001,hypokalemia
+111001,hypothyroid
+111001,gynecomastia
+111001,hyperparathyroid
+111001,vitiligo
+111001,eyedrop
+111002,thyroid gland
+111002,palpitations adverse event
+111002,anxiety disorder
+111002,anxiety symptoms
+111002,bale out
+111002,actemergencyencountercode
+111002,tsh
+111002,t4
+111002,hyperthyroid
+111002,hypothyroid
+111002,thyroxin
+111002,t3
+111002,diarrhoea
+111002,libido
+111002,swollen
+111002,restless
+111002,insomnia
+111003,thyroid gland
+111003,multinodular
+111003,struma
+111003,myxedema
+111003,goiter
+111003,hyperthyroid
+111003,rutabaga
+111003,hashimoto
+111003,tsh
+111003,hypercalcemia
+111003,facp
+111003,hypokalemia
+111003,hypothyroid
+111003,gynecomastia
+111003,hyperparathyroid
+111003,vitiligo
+111004,4
+111004,thyroid gland
+111004,bale out
+111004,actemergencyencountercode
+111004,hyperthyroid
+111004,hashimoto
+111004,vitiligo
+111004,hypothyroid
+111004,endo
+111004,t4
+111004,nervous
+111004,menstrual
+111004,multinodular
+111004,struma
+111004,myxedema
+111004,goiter
+111004,rutabaga
+111005,hospital environment
+111006,thyroid gland
+111006,interphase cell
+111006,pulse rate
+111006,cardiac flutter
+111006,acetylcholinesterase
+111006,propylthiouracil
+111006,multinodular
+111006,atd
+111006,hyperthyroid
+111006,thiourea
+111006,euthyroid
+111006,hypoparathyroid
+111006,thyroxin
+111006,goiter
+111006,arthralgia
+111006,thyroidologist
+111006,tsh
+111006,tbg
+111006,globulin
+111006,hypothyroid
+112001,transplant
+112001,northwest
+112001,prevail
+112001,ethnic
+112001,quilt
+112001,religion
+112001,patient
+112001,cornea
+112001,schwartz
+112001,death
+112001,hoax
+112001,damper
+112001,bathtub
+112001,urban
+112001,longest
+112001,legend
+112001,stolen
+112002,physician
+112002,treatment intent
+112002,bortezomib
+112002,aota
+112002,corticosteroid
+112002,transplant
+112002,antigen
+112002,dissimilar
+112002,scalp
+112002,reject
+112002,immun
+112002,bma
+112002,solicitor
+112002,kin
+112002,coma
+112002,inherit
+112002,liaison
+112002,eighteen
+112002,gp
+112003,hbv
+112003,hcv
+112003,allograft
+112003,gv
+112003,cardiac
+112003,xu
+112003,hepat
+112003,transplant
+112003,cox
+112003,transpl
+112003,unmet
+112003,bald
+112003,biomed
+112003,int
+112003,ethic
+112003,fair
+112003,neoplasia
+112003,lw
+112003,carcinoma
+112003,tumor
+112003,benign
+112003,jm
+112003,renal
+112004,exist
+112004,29a
+112004,rabbi
+112004,19a
+112004,cit
+112004,marrow
+112004,transplant
+112004,lobe
+112004,cid
+112004,medigap
+112004,judaism
+112004,nineteen
+112004,8pm
+112004,liver
+112004,eighteen
+112004,ethic
+112004,altruism
+112004,cadaver
+112004,coercion
+112004,bioethicist
+112004,bioethic
+112004,personhood
+112005,physician
+112005,life
+112005,transplant
+112005,tubb
+112005,npr
+112005,pharmacist
+112005,cincinnati
+112005,angela
+112005,cornea
+112005,panacea
+112005,pelvic
+112005,patient
+112005,breast
+112005,535
+112005,atria
+112005,cellcept
+112005,echocardiogram
+112005,beeper
+112005,electrocardiogram
+112005,ptt
+112005,cyclosporin
+112005,ekg
+112005,coumadin
+112006,physician
+112006,general surgery
+112006,transplant
+112006,oncologist
+112006,rectal
+112006,schwartz
+112006,renal
+112006,trauma
+112006,md
+112006,surgeon
+112006,worsen
+112006,cornea
+112006,panacea
+112006,pelvic
+112006,patient
+112006,breast
+112006,535
+112006,femur
+112006,crutch
+112006,altruism
+112006,batten
+112006,pancrea
+112006,ligament
+112006,gall
+113001,peripheral blood
+113002,glandular
+113002,bowel
+113002,chlamydia
+113002,ib
+113002,boot
+113002,ovarian
+113002,disinfect
+113002,adhd
+113002,vomit
+113003,procedure on stomach
+113004,faeces soft
+113004,flatulence adverse event
+113004,peripheral blood
+113005,bright red color
+113005,bronze orange
+113005,peripheral blood
+113006,severe extremity pain
+113006,gastrointestinal point in time patient
+113006,dyspepsia
+113006,distend
+113006,peptic
+113006,bowel
+113006,ranitidin
+113006,abdomen
+113006,radiograph
+113006,biofeedback
+113006,ulcer
+113006,diarrhea
+114001,mild
+114001,reported bruising history
+114001,proprioceptor
+114001,rehab
+114001,ligament
+114001,ank
+114001,radiograph
+114001,eval
+114001,swell
+114001,ibuprofen
+114001,tendon
+114003,fibula
+114003,sprain
+114003,hss
+114003,ligament
+114003,tibia
+114003,anterior
+114003,mimic
+114003,brace
+114003,swell
+114003,535
+114004,crutch
+114004,ibuprofen
+114004,fifth
+114004,tendon
+114004,limp
+114004,shaft
+114004,worsen
+114004,foot
+114004,bone
+114006,long variable
+114006,recovery
+114006,sprain
+114006,ligament
+114006,stirrup
+114006,medial
+114006,ibuprofen
+114006,crutch
+114006,limp
+114006,mild
+114006,brace
+114006,worsen
+115001,aspects of signs
+115003,disease transmission
+115003,vzv
+115003,hsv
+115003,topi
+115003,ganglia
+115003,famciclovir
+115003,valacyclovir
+115003,simplex
+115003,zoster
+115003,varicella
+115006,sample mean
+115006,population mean
+116001,anal hemorrhage
+116001,anal qualifier value
+116001,anus
+116003,anal hemorrhage
+116005,happen
+116005,occurrence
+116005,towelettes
+116006,towelettes
+117001,feeling cold
+117001,physical strength
+117001,pharmaceutical strength
+117003,physician
+117004,feeling cold
+117004,fluorescence units
+117004,physical strength
+117004,pharmaceutical strength
+117004,calmylin
+117004,alseroxylon
+117004,cocillana
+117004,efidac
+117004,sudogest
+117004,afrinol
+117004,balminil
+117004,adra1a
+117004,slc6a2
+117004,slc6a3
+117005,feeling cold
+117006,feeling cold
+118001,compartmental model region
+118001,ischaemia
+118001,gluteal
+118001,tibial
+118001,fascial
+118001,ischemia
+118001,microvascular
+118001,icd
+118001,muscular
+118001,ota
+118001,fascia
+118001,carpal
+118001,1051
+118001,exert
+118001,uy
+118001,limb
+118001,gs
+118001,nerv
+118001,parasthesia
+118001,nibib
+118001,innerv
+118001,pallor
+118001,sequela
+118001,extracellular
+118002,compartmental model region
+118002,general surgery
+118002,ischaemia
+118002,gluteal
+118002,tibial
+118002,fascial
+118002,ischemia
+118002,microvascular
+118002,icd
+118002,muscular
+118002,ota
+118002,niam
+118002,aao
+118002,hemophilia
+118002,fascia
+118002,hca
+118002,genu
+118002,edema
+118002,acad
+118002,jfk
+118002,buttock
+118002,exert
+118002,slit
+118002,numb
+118003,compartmental model region
+118003,ischaemia
+118003,gluteal
+118003,tibial
+118003,fascial
+118003,ischemia
+118003,microvascular
+118003,icd
+118003,muscular
+118003,ota
+118003,niam
+118003,aao
+118003,hemophilia
+118003,fascia
+118003,hca
+118003,genu
+118003,edema
+118003,acad
+118003,carpal
+118003,1051
+118003,exert
+118003,uy
+118003,limb
+118003,gs
+118003,nerv
+118004,compartmental model region
+118004,ischaemia
+118004,gluteal
+118004,tibial
+118004,fascial
+118004,ischemia
+118004,microvascular
+118004,icd
+118004,muscular
+118004,ota
+118004,fascia
+118004,carpal
+118004,1051
+118004,exert
+118004,uy
+118004,limb
+118004,gs
+118004,nerv
+118004,niam
+118004,aao
+118004,hemophilia
+118004,hca
+118004,genu
+118004,edema
+118004,acad
+118005,analgesics
+118005,drug screening oxycodone
+118006,compartmental model region
+118006,general surgery
+118006,ischaemia
+118006,gluteal
+118006,tibial
+118006,fascial
+118006,ischemia
+118006,microvascular
+118006,icd
+118006,muscular
+118006,ota
+118006,niam
+118006,aao
+118006,hemophilia
+118006,fascia
+118006,hca
+118006,genu
+118006,edema
+118006,acad
+119001,anabolic steroids levels
+119001,dystrophin
+119001,forearm
+119001,worsen
+119001,abnorm
+119001,torso
+119001,pelvic
+119001,gene
+119001,thigh
+119002,anabolic steroids levels
+119002,dystrophin
+119002,forearm
+119002,worsen
+119002,abnorm
+119002,torso
+119002,pelvic
+119002,gene
+119002,thigh
+119003,dystrophin
+119003,forearm
+119003,worsen
+119003,abnorm
+119003,torso
+119003,pelvic
+119003,gene
+119003,thigh
+119004,anabolic steroids levels
+119005,anabolic steroids levels
+119006,anabolic steroids levels
+119006,dystrophin
+119006,forearm
+119006,worsen
+119006,abnorm
+119006,torso
+119006,pelvic
+119006,gene
+119006,thigh
+120001,disease screening
+120001,peripheral blood
+120002,peripheral blood
+120003,peripheral blood
+120004,feeling cold
+120004,peripheral blood
+120005,feeling cold
+120006,feeling cold
+120006,peripheral blood
+120006,hbsag
+120006,hbv
+120006,hepb
+120006,hbc
+120006,vibrio
+120006,washcloth
+120006,globulin
+120006,hb
+120006,vaccin
+121001,plantar
+121001,verruca
+121001,tarsal
+121001,metatarsalgia
+121001,bunion
+121001,fibroma
+121001,chilblain
+121001,chiropodist
+121001,flatfoot
+121001,hallux
+121001,neuroma
+121001,engelmann
+121001,zea
+121001,crutch
+121001,norco
+121001,rpc
+121001,podiatrist
+121001,nerv
+121001,mtg
+121002,exist
+121002,apml
+121002,caiman
+121002,cbr
+121002,durango
+121002,lama
+121002,bent
+121002,quantum
+121002,goat
+121002,bel
+121002,hallux
+121002,callus
+121002,hypnotherapist
+121002,locksmith
+121002,outward
+121002,pore
+121002,plumber
+121002,perch
+121003,malunion
+121003,nonunion
+121003,hematoma
+121003,toenail
+121003,gout
+121003,biofeedback
+121003,blister
+121003,cramp
+121003,mallet
+121004,hangnail
+121004,talcum
+121004,hemophilia
+121004,podiatrist
+121004,toenail
+121004,feet
+121004,painless
+121004,lotion
+121004,neuroma
+121004,verruca
+121004,metatarsalgia
+121004,ligament
+121004,mallet
+121004,odor
+121004,foot
+121005,cerumen
+121006,plantar
+121006,verruca
+121006,tarsal
+121006,metatarsalgia
+121006,bunion
+121006,fibroma
+121006,chilblain
+121006,chiropodist
+121006,flatfoot
+121006,hallux
+121006,forefoot
+121006,cinch
+121006,pedal
+121006,itch
+121006,acrobat
+121006,rash
+121006,strap
+121006,swell
+121006,neuroma
+121006,painful
+121006,toenail
+121006,fibula
+121006,tibial
+121006,instep
+122001,vomiting adverse event
+122001,mittelschmerz
+122001,diverticula
+122001,endometrium
+122001,abdomen
+122001,groin
+122001,scrotum
+122001,yolk
+122001,overgrowth
+122001,aorta
+122001,pelvic
+122002,offspring
+122002,vomiting adverse event
+122003,vomiting adverse event
+122003,colic
+122003,milla
+122003,enema
+122003,clin
+122003,gq
+122003,checkup
+122003,kd
+122003,jb
+122004,torsion
+122004,testicular
+122004,abd
+122004,pneumonia
+122004,uy
+122004,diarrhea
+122004,gs
+122004,symptom
+122004,ch
+122004,bowel
+122004,dyspepsia
+122004,gastroenterologist
+122004,belch
+122004,bran
+122004,zantac
+122004,crohn
+122004,antacid
+122004,pediatrician
+122004,turnip
+122004,pinworm
+122004,callus
+122004,tonsil
+122004,abdomen
+122004,pox
+122004,vomit
+122004,incas
+122004,nausea
+122005,precision year
+122005,physician
+122005,bowel
+122005,ib
+122005,stigma
+122005,hernia
+122005,stool
+122005,discomfort
+122005,colon
+122005,outbreak
+122005,symptom
+122005,diarrhea
+122005,radiol
+122005,bismuth
+122005,fam
+122005,clin
+122005,vomit
+122005,gq
+122005,ej
+122005,yap
+122005,checkup
+122006,umbilicus
+122006,double ureter
+122006,vomiting adverse event
+122006,muscle belly
+122006,procedure on ureter
+122006,abdomen
+122006,sigmoid
+122006,aorta
+122006,crohn
+122006,pco
+122006,rib
+122006,spleen
+122006,ovarian
+122006,diaphragm
+122006,pancrea
+123001,snri
+123001,hypomania
+123001,rhodiola
+123001,kava
+123001,valerian
+123001,serotonin
+123001,buspar
+123001,xr
+123001,tremor
+123002,adverse effects
+123002,effect appearance
+123002,examination of balance
+123002,hypoaesthesia
+123002,paraesthesia
+123002,amitrip
+123002,laryngospasm
+123002,hypertonia
+123002,confusion
+123002,efexor
+123002,akathisia
+123002,xr
+123002,tremor
+123002,spasm
+123002,hypothyroid
+123002,estrogen
+123002,serotonin
+123002,libido
+123002,anorexia
+123002,orgasm
+123002,heartbeat
+123003,adverse effects
+123003,effect appearance
+123003,hypoaesthesia
+123003,paraesthesia
+123003,amitrip
+123003,laryngospasm
+123003,hypertonia
+123003,confusion
+123003,efexor
+123003,akathisia
+123003,xr
+123004,adv eff
+123005,adv eff
+123005,isocarboxazid
+123005,tremor
+123005,glaucoma
+123005,mao
+123005,dose
+123005,heartbeat
+123005,pharmacist
+123005,irregular
+123005,inhibitor
+123005,snri
+123005,hypomania
+123005,rhodiola
+123005,kava
+123005,valerian
+123005,serotonin
+123005,buspar
+123005,xr
+123005,fioricet
+123005,carisoprodol
+123005,tramadol
+123005,nausea
+123005,soma
+123005,insomnia
+123005,gradual
+123005,symptom
+123006,adverse effects
+123006,effect appearance
+123006,dizziness adverse event
+123006,pristiq
+123006,serotonin
+123006,ssri
+123006,inhibitor
+123006,warfarin
+123006,effexor
+123006,cymbalta
+123006,tremor
+123006,ibuprofen
+123006,parasthesia
+123006,hyperforin
+123006,cylert
+123006,anorgasmia
+123006,nardil
+123006,maoi
+123006,ixel
+123006,kava
+124003,alzheimer s disease
+124005,dying process
+125001,weight symptom finding
+125002,weight symptom finding
+125003,thyroid gland
+125003,weight symptom finding
+125003,goiter
+125003,hyperthyroid
+125003,hypothyroid
+125003,vestibulum
+125003,thyroxin
+125003,tsh
+125003,endocrinologist
+125003,t4
+125004,thyroid gland
+125004,weight symptom finding
+125004,goiter
+125004,hyperthyroid
+125004,hypothyroid
+125004,vestibulum
+125004,thyroxin
+125004,tsh
+125004,endocrinologist
+125004,t4
+125004,cortisol
+125004,appt
+125004,wt
+125004,t3
+125005,thyroid gland
+125005,lost medical device
+125005,monthly
+125005,parathyroid
+125005,atenolol
+125005,hyperthyroid
+125005,cleav
+125005,heartbeat
+125005,restless
+125005,disinfect
+125005,cat
+125006,thyroid gland
+125006,weight symptom finding
+125006,goiter
+125006,hyperthyroid
+125006,hypothyroid
+125006,vestibulum
+125006,thyroxin
+125006,tsh
+125006,endocrinologist
+125006,t4
+125006,cortisol
+125006,appt
+125006,wt
+125006,t3
+126001,fatigue subordinate domain
+126002,impaired balance
+126002,fatigue subordinate domain
+126002,examination of balance
+126002,palpitations adverse event
+126002,dizzy
+126002,sicca
+126002,neutropenia
+126002,redox
+126002,kaki
+126002,proteinuria
+126002,enalapril
+126002,odc
+126002,lft
+126002,lightheaded
+126005,physician
+126005,diagnosis
+126006,impaired balance
+126006,interphase cell
+126006,fatigue subordinate domain
+126006,examination of balance
+126006,myokymia
+126006,b12
+126006,megaloblast
+126006,cobalamin
+126006,hypothyroid
+126006,cyanocobalamin
+126006,anemia
+126006,paresthesia
+126006,neuralgia
+127001,formoterol
+127001,copd
+127001,corticosteroid
+127001,ubc
+127001,lancet
+127001,inhal
+127001,regimen
+127001,thorn
+127001,patient
+127002,vap
+127002,bacilli
+127002,methicillin
+127002,predictor
+127002,pathogen
+127002,onset
+127002,gram
+127002,piti
+127002,comb
+127002,cilia
+127002,mycoplasma
+127002,emphysema
+127002,gerd
+127002,blackhead
+127002,sinus
+127002,reflux
+127002,carcinoma
+127002,aneurysm
+127002,alveoli
+127002,spasm
+127002,cough
+127002,acetaminophen
+127002,ibuprofen
+127002,loosen
+127002,sac
+127002,fever
+127002,germ
+127003,mycoplasma
+127003,nicoderm
+127003,ipratropium
+127003,pul
+127003,toc
+127003,chantix
+127003,clst
+127003,zyban
+127003,azithromycin
+127004,recurrent
+127004,eosinopenia
+127004,eosinophilia
+127004,eosinophil
+127004,alveolar
+127004,dyspnea
+127004,helminth
+127004,rale
+127004,alveoli
+127004,mycobacterium
+127005,precision year
+127005,formoterol
+127005,copd
+127005,corticosteroid
+127005,ubc
+127005,lancet
+127005,inhal
+127005,regimen
+127005,thorn
+127005,patient
+128001,diet therapy
+128001,basal diet
+128001,special diet therapy
+128002,infectious mononucleosis
+128004,infectious mononucleosis
+128004,heterophil
+128004,ebv
+128004,cmv
+128004,bilirubin
+128004,chickenpox
+128004,diphtheria
+128004,tonsil
+128004,epstein
+128004,escherichia
+128004,rubella
+128006,low calorie diet
+128006,diet therapy
+128006,basal diet
+128006,special diet therapy
+128006,anxiety disorder
+128006,anxiety symptoms
+129002,depressed symptom
+129002,cramping sensation quality
+129004,hypersomnia
+129004,asleep
+129005,hour
+129005,maintenance
+129006,muscle spasm
+130001,low back pain
+130001,lower back structure
+130001,peripheral blood
+130001,aclasta
+130001,alkeran
+130001,aredia
+130001,adriamycin
+130001,alimta
+130001,aromasin
+130001,bevacizumab
+130001,scrotum
+130001,avastin
+130002,peripheral blood
+130002,hematospermia
+130002,epididymi
+130002,calculi
+130002,urethra
+130002,scrotum
+130002,polyp
+130002,chlamydia
+130002,groin
+130002,cyst
+130002,hemospermia
+130002,urologist
+130002,clot
+130002,tablespoon
+130002,abt
+130002,cystic
+130002,cp
+130004,adv eff
+130005,hematospermia
+130005,testicular swelling
+130005,tenderness
+130005,epididymi
+130005,calculi
+130005,urethra
+130005,scrotum
+130005,polyp
+130005,chlamydia
+130005,groin
+130005,cyst
+130005,scrotal
+130005,torsion
+130005,rosacea
+130005,myeloma
+130005,copd
+130005,hernia
+130005,schizophrenia
+130005,epididymo
+130005,coccinia
+130005,caltrop
+130006,testicular swelling
+130006,epididymi
+130006,scrotal
+130006,torsion
+130006,rosacea
+130006,myeloma
+130006,copd
+130006,hernia
+130006,schizophrenia
+131001,skin of penis
+131001,cellular infiltrate
+131002,cellular infiltrate
+131003,skin of penis
+131003,cellular infiltrate
+131003,pseudolymphoma
+131003,lymphocytoma
+131003,microabscess
+131003,angiokeratoma
+131003,cd79a
+131003,melkersson
+131003,xanthogranuloma
+131003,acral
+131003,lymphoid
+131003,cd30
+131004,cellular infiltrate
+131005,skin of penis
+131005,cellular infiltrate
+131005,sample mean
+131005,population mean
+131005,pseudolymphoma
+131005,lymphocytoma
+131005,microabscess
+131005,angiokeratoma
+131005,cd79a
+131005,melkersson
+131005,xanthogranuloma
+131005,acral
+131005,lymphoid
+131005,cd30
+131006,skin of penis
+131006,cellular infiltrate
+131006,artifact
+131006,sample mean
+131006,population mean
+131006,pseudolymphoma
+131006,lymphocytoma
+131006,microabscess
+131006,angiokeratoma
+131006,cd79a
+131006,melkersson
+131006,xanthogranuloma
+131006,acral
+131006,lymphoid
+131006,cd30
+132001,pericardium
+132001,echocardiogram
+132001,electrocardiogram
+132001,buildup
+132001,hypothyroid
+132001,sac
+132001,inflamm
+132001,rosenberg
+132001,fungal
+132001,agt
+132001,abdomen
+132001,orthopnoea
+132001,uraemia
+132001,ruq
+132001,azotemia
+132001,fibrin
+132001,dyspnoea
+132001,cxr
+132001,confluent
+132001,nephrol
+132002,drug abuser
+132002,feeling relief
+132002,lamina 4
+132002,lobule iv
+132002,intravenous
+132004,autumn
+132006,pericardium
+132006,brovana
+132006,echocardiogram
+132006,uremia
+132006,utp
+132006,pdr
+132006,dressler
+132006,isoniazid
+132006,mevacor
+132006,electrocardiogram
+133001,nausea adverse event
+133001,vomiting adverse event
+133001,peripheral blood
+133001,feces
+133002,gastric pain
+133002,procedure on stomach
+133002,cramping sensation quality
+133002,nausea adverse event
+133002,vomiting adverse event
+133004,zelnorm
+133004,diarrhoea
+133004,bowel
+133004,spastic
+133004,valium
+133004,diarrhea
+133004,bloat
+133004,cramp
+133004,gastro
+133004,stool
+133004,gout
+133005,physician
+133005,baobab
+133005,gastroenterologist
+133005,hypnotherapist
+133005,hasnt
+133005,bowel
+133005,upbeat
+133005,discomfort
+133005,cope
+133006,diarrhea and vomiting
+133006,procedure on stomach
+133006,nausea adverse event
+133006,vomiting adverse event
+133006,bowel
+133006,valium
+133006,bloat
+133006,discomfort
+133006,fibromyalgia
+133006,naturopath
+133006,citrucel
+133006,lotronex
+133006,zelnorm
+133006,celiac
+133006,symptom
+133006,spastic
+133006,bran
+134001,hot temperature
+134001,nausea adverse event
+134001,new lesion identification
+134002,body temperature
+134002,nausea adverse event
+134002,new lesion identification
+134002,age of onset
+134003,nausea adverse event
+134004,ingestible alcohol
+134005,current drinker
+134006,nausea
+134006,ingestible alcohol
+135001,diplopia
+135001,double value type
+135001,vision point in time patient
+135005,physician
+135005,subsequent trial activity
+135005,adjacent
+136001,severe extremity pain
+136002,hypertension
+136002,blood pressure finding
+136002,abnormally high
+136002,peripheral blood
+136003,hypertension
+136003,drop british
+136003,medical drop
+136003,abnormally high
+136003,peripheral blood
+136004,blood pressure finding
+136004,peripheral blood
+136004,gait normal
+136004,disease classification level
+136005,blood pressure finding
+136005,reference range
+136005,oral
+136005,lamina 4
+136005,lobule iv
+136005,intravenous
+136005,master of education
+136005,peripheral blood
+136005,gait normal
+136005,sample range
+136006,blood pressure finding
+136006,drop british
+136006,medical drop
+136006,peripheral blood
+137001,lymphadenopathy
+137001,offspring
+137001,abnormally high
+137001,c reactive protein
+137002,increased tsh
+137002,offspring
+137002,abnormally high
+137002,messagewaitingpriority
+137002,dietary iron
+137002,infections point in time patient
+137002,thyroidologist
+137002,levothyroid
+137002,euthyroid
+137002,thyroid
+137002,hypothyroid
+137002,goiter
+137002,calcitonin
+137002,nodular
+137002,t4
+137002,thyroglobulin
+137002,thyroxin
+137002,t3
+137002,glandular
+137002,synthroid
+137003,lymphadenopathy
+137003,gastric pain
+137003,messagewaitingpriority
+137003,procedure on stomach
+137004,messagewaitingpriority
+137004,measurement of glucose
+137004,dietary iron
+137005,lymphadenopathy
+137005,year
+137005,old episode
+137006,lymph node pain
+137006,gastric pain
+137006,decreased appetite
+137006,precision year
+137006,old episode
+137006,procedure on stomach
+137006,urticaria
+138001,right upper arm
+138001,negative surgical margin
+138001,procedure on shoulder
+138001,entire upper arm
+138002,sternum
+138002,anemia
+138002,tight
+138002,tender
+138002,symptom
+138002,pharmacist
+138002,inhal
+138002,breath
+138003,cough adverse event
+138004,adv eff
+138006,pixels per inch
+138006,prepulse inhibition
+139001,hepatic parenchyma
+139001,liver procedure
+139001,liver extract
+139001,peripheral blood
+139002,alternative billing concepts
+139002,alanine aminotransferase
+139003,alternative billing concepts
+139003,alanine aminotransferase
+139003,outcome
+139003,experimental result
+139004,abnormally high
+139004,alternative billing concepts
+139004,alanine aminotransferase
+139004,tissue damage
+139005,alternative billing concepts
+139005,alanine aminotransferase
+139006,abnormally high
+139006,alternative billing concepts
+139006,alanine aminotransferase
+139006,leea
+139006,suh
+139006,bmi
+139006,ast
+139006,serum
+139006,liver
+139006,gamma
+139006,overweight
+139006,slight
+139006,gu
+139006,hcv
+139006,rai2
+140001,peripheral blood
+140001,hematospermia
+140001,epididymi
+140001,calculi
+140001,urethra
+140001,scrotum
+140001,polyp
+140001,chlamydia
+140001,groin
+140001,cyst
+140001,hemospermia
+140001,hemophilia
+140001,warfarin
+140001,clot
+140001,rx
+140001,gland
+140001,encyclopedia
+140002,peripheral blood
+140002,bicycling
+140002,bmp2k gene
+140003,peripheral blood
+140003,bicycling
+140003,bmp2k gene
+140004,peripheral blood
+140004,hematospermia
+140004,epididymi
+140004,calculi
+140004,urethra
+140004,scrotum
+140004,polyp
+140004,chlamydia
+140004,groin
+140004,cyst
+140004,hemospermia
+140004,hemophilia
+140004,warfarin
+140004,clot
+140004,rx
+140004,gland
+140004,encyclopedia
+140004,urologist
+140004,tablespoon
+140004,abt
+140004,cystic
+140004,cp
+140005,peripheral blood
+140005,hematospermia
+140005,epididymi
+140005,calculi
+140005,urethra
+140005,scrotum
+140005,polyp
+140005,chlamydia
+140005,groin
+140005,cyst
+140005,hemospermia
+140005,oaf
+140005,testicular
+140005,bph
+140005,msa
+140005,gonorrhea
+140005,hemophilia
+140005,warfarin
+140005,clot
+140005,rx
+140005,gland
+140005,encyclopedia
+140006,peripheral blood
+140006,hematospermia
+140006,hemospermia
+140006,urethra
+140006,hemophilia
+140006,warfarin
+140006,clot
+140006,rx
+140006,gland
+140006,encyclopedia
+140006,epididymi
+140006,calculi
+140006,scrotum
+140006,polyp
+140006,chlamydia
+140006,groin
+140006,cyst
+141001,rhinorrhea
+141001,sphenoid
+141001,niaid
+141001,sinus
+141001,throat
+141001,symptom
+141001,encyclopedia
+141001,cough
+141001,nose
+141001,pnd
+141001,vasomotor
+141001,nasopharynx
+141001,dander
+141001,antacid
+141001,decongest
+141001,adenoid
+141001,vasoconstrictor
+141001,ipratropium
+141001,bisgaard
+141001,submucosa
+141001,polyposi
+141001,benzalkonium
+141001,corticosteroid
+141001,eosinophil
+141002,nasal congestion
+141002,nasal procedure
+141002,tissue congestion
+141002,sinus
+141002,eardrum
+141002,anesthesia
+141002,polyp
+141002,ent
+141002,balloon
+141002,anterior
+141002,capitol
+141002,vasomotor
+141002,decongest
+141002,chlor
+141002,septum
+141002,adenoid
+141002,histamin
+141002,claritin
+141002,clarinex
+141002,dander
+141003,nasal congestion
+141003,nasal procedure
+141003,sinus
+141003,eardrum
+141003,anesthesia
+141003,polyp
+141003,ent
+141003,balloon
+141003,anterior
+141003,capitol
+141003,vasomotor
+141003,dysport
+141003,adenoid
+141003,juvederm
+141003,eosinophil
+141003,decongest
+141003,cochlear
+141003,dermal
+141003,tonsil
+141004,rhinorrhea
+141004,nasal procedure
+141004,sphenoid
+141004,niaid
+141004,sinus
+141004,throat
+141004,symptom
+141004,encyclopedia
+141004,cough
+141004,pnd
+141004,vasomotor
+141004,nasopharynx
+141004,dander
+141004,antacid
+141004,decongest
+141004,adenoid
+141004,lym
+141004,cyt
+141004,spu
+141004,medex
+141004,aor
+141004,fsp
+141004,csf
+141005,rhinorrhea
+141005,pnd
+141005,vasomotor
+141005,nasopharynx
+141005,sinus
+141005,dander
+141005,antacid
+141005,decongest
+141005,adenoid
+141005,sphenoid
+141005,niaid
+141005,throat
+141005,symptom
+141005,encyclopedia
+141005,cough
+141005,nose
+141006,rhinorrhea
+141006,sphenoid
+141006,niaid
+141006,sinus
+141006,throat
+141006,symptom
+141006,encyclopedia
+141006,cough
+141006,nose
+141006,pnd
+141006,vasomotor
+141006,nasopharynx
+141006,dander
+141006,antacid
+141006,decongest
+141006,adenoid
+142001,entire nipple
+142002,discharge nipple female
+142002,entire nipple
+142002,ectasia
+142002,hyperprolactinemia
+142002,galactorrhea
+142002,prolactin
+142002,fistula
+142002,papilloma
+142002,areola
+142002,gynecomastia
+142002,breast
+142002,benign
+142002,pap
+142002,duct
+142002,wart
+142002,smear
+142002,tumor
+142002,cyst
+142003,entire nipple
+142003,dried specimen
+142003,peripheral blood
+142004,adv eff
+142004,discharge nipple female
+142004,breast procedure
+142004,entire nipple
+142004,galactorrhoea
+142004,prostaglandin
+142004,pheochromocytoma
+142004,dysmenorrhea
+142004,carcinoid
+142004,hyperthyroid
+142004,tumour
+142004,nausea
+142004,swollen
+142004,mastalgia
+142004,ectasia
+142004,galactorrhea
+142004,papilloma
+142004,globul
+142004,mammogram
+142004,radiologist
+142004,duct
+142004,prolactin
+142005,entire nipple
+142005,ectasia
+142005,papilloma
+142005,areola
+142005,prolactin
+142005,duct
+142005,cyst
+142005,breast
+142005,wart
+142005,galactorrhea
+142005,abscess
+142005,baptist
+142005,fibroadenoma
+142005,nodular
+142005,bloodstain
+142005,lump
+142006,right breast symptoms
+142006,breast procedure
+142006,entire nipple
+142006,ectasia
+142006,galactorrhea
+142006,papilloma
+142006,areola
+142006,prolactin
+142006,abscess
+142006,duct
+142006,benign
+142006,baptist
+142006,fibroadenoma
+142006,nodular
+142006,cyst
+142006,bloodstain
+142006,lump
+143001,long variable
+143001,reported term
+143001,pixels per inch
+143001,prepulse inhibition
+143002,adv eff
+143002,long variable
+143002,reported term
+143002,pepsin
+143002,duodenum
+143002,reflux
+143002,bicarbon
+143002,simvastatin
+143002,sphincter
+143002,ciprofloxacin
+143002,zantac
+143002,bupropion
+143002,hypoglycemia
+143002,cyp2c19
+143002,clarithromycin
+143002,cmin
+143002,atazanavir
+143002,p2y12
+143002,hypomagnesemia
+143002,fundic
+143002,cilostazol
+143002,saquinavir
+143002,cmax
+143003,elixophyllin
+143003,femiron
+143003,fergon
+143003,theolair
+143003,isopropanol
+143003,theochron
+143003,zegerid
+143003,atazanavir
+143003,neoral
+143003,hydroxypropyl
+143003,kapidex
+143003,aerophagia
+143003,clopidogrel
+143003,dyspepsia
+143003,hernia
+143003,heartburn
+143003,reflux
+143003,gerd
+143003,peptic
+143003,ppi
+143003,prilosec
+143003,disulfiram
+143003,temazepam
+143004,long variable
+143004,reported term
+143004,pixels per inch
+143004,prepulse inhibition
+143005,long variable
+143005,reported term
+143005,pixels per inch
+143005,prepulse inhibition
+143006,long variable
+143006,reported term
+143006,pepsin
+143006,duodenum
+143006,reflux
+143006,bicarbon
+143006,simvastatin
+143006,sphincter
+143006,ciprofloxacin
+143006,zantac
+143006,bupropion
+143006,hypoglycemia
+143006,cyp2c19
+143006,clarithromycin
+143006,cmin
+143006,atazanavir
+143006,p2y12
+143006,hypomagnesemia
+143006,fundic
+143006,cilostazol
+143006,saquinavir
+143006,cmax
+144001,leukocytes
+144001,cbc
+144001,white color
+144001,peripheral blood
+144001,entire cell
+144001,urine sample
+144001,ketonuria
+144001,hemoglobinuria
+144001,hyalin
+144001,lpf
+144001,asept
+144001,hpf
+144001,bilirubin
+144001,nephron
+144001,hematuria
+144001,turbid
+144001,lipiduria
+144001,mucoprotein
+144001,bacteriuria
+144001,clinitest
+144001,pyuria
+144001,glomerular
+144001,dipstick
+144001,benzalkonium
+144002,leukocytes
+144002,white color
+144002,peripheral blood
+144002,urine sample
+144002,ketonuria
+144002,hemoglobinuria
+144002,hyalin
+144002,lpf
+144002,asept
+144002,hpf
+144002,bilirubin
+144002,nephron
+144002,hematuria
+144002,turbid
+144002,lipiduria
+144002,mucoprotein
+144002,bacteriuria
+144002,clinitest
+144002,pyuria
+144002,glomerular
+144002,dipstick
+144002,benzalkonium
+144003,ulinastatin
+144004,leukocytes
+144004,white color
+144004,peripheral blood
+144004,exist
+144004,urine sample
+144004,ketonuria
+144004,hemoglobinuria
+144004,hyalin
+144004,lpf
+144004,asept
+144004,hpf
+144004,bilirubin
+144004,nephron
+144004,hematuria
+144004,turbid
+144004,lipiduria
+144004,mucoprotein
+144004,bacteriuria
+144004,clinitest
+144004,pyuria
+144004,glomerular
+144004,dipstick
+144004,benzalkonium
+144005,leukocytes
+144005,white color
+144005,peripheral blood
+144005,urine sample
+144005,ketonuria
+144005,hemoglobinuria
+144005,hyalin
+144005,lpf
+144005,asept
+144005,hpf
+144005,bilirubin
+144005,nephron
+144005,hematuria
+144005,turbid
+144005,lipiduria
+144005,mucoprotein
+144005,bacteriuria
+144005,clinitest
+144005,pyuria
+144005,glomerular
+144005,dipstick
+144005,benzalkonium
+144006,leukocytes
+144006,white color
+144006,peripheral blood
+144006,urine sample
+144006,precision year
+144006,old episode
+144006,offspring
+144006,ketonuria
+144006,hemoglobinuria
+144006,hyalin
+144006,lpf
+144006,asept
+144006,hpf
+144006,bilirubin
+144006,nephron
+144006,hematuria
+144006,turbid
+144006,lipiduria
+144006,mucoprotein
+144006,bacteriuria
+144006,clinitest
+144006,pyuria
+144006,glomerular
+144006,dipstick
+144006,benzalkonium
+145001,disease progression
+145001,areflexia
+145001,ataxia
+145001,thallium
+145001,porphyrin
+145001,hexa
+145001,cranial
+145001,porphyria
+145001,nitrofurantoin
+145001,distal
+145001,mycoplasma
+145001,respir
+145001,clot
+145001,influenza
+145001,gb
+145001,diarrhea
+145001,abnorm
+145001,heartbeat
+145001,symptom
+145001,reflex
+145001,weak
+145004,respir
+145004,clot
+145004,influenza
+145004,gb
+145004,diarrhea
+145004,abnorm
+145004,heartbeat
+145004,reflex
+145004,weak
+145004,extraocular
+145004,zanamivir
+145004,diplopia
+145004,myasthenia
+145004,myelin
+145004,oseltamivir
+145004,axon
+145004,immunoglobulin
+145004,typhoid
+145004,cornea
+145004,areflexia
+145004,ataxia
+145004,thallium
+145004,porphyrin
+145004,hexa
+145004,cranial
+145004,porphyria
+145004,nitrofurantoin
+145004,distal
+145004,mycoplasma
+145006,respir
+145006,clot
+145006,influenza
+145006,gb
+145006,diarrhea
+145006,abnorm
+145006,heartbeat
+145006,reflex
+145006,weak
+145006,extraocular
+145006,zanamivir
+145006,diplopia
+145006,myasthenia
+145006,myelin
+145006,oseltamivir
+145006,axon
+145006,immunoglobulin
+145006,typhoid
+145006,cornea
+145006,areflexia
+145006,ataxia
+145006,thallium
+145006,porphyrin
+145006,hexa
+145006,cranial
+145006,porphyria
+145006,nitrofurantoin
+145006,distal
+145006,mycoplasma
+146001,tenderness
+146001,nausea adverse event
+146001,vomiting adverse event
+146001,epididymi
+146001,scrotal
+146001,testicular
+146001,torsion
+146001,rosacea
+146001,semen
+146001,myeloma
+146001,copd
+146001,hernia
+146001,schizophrenia
+146002,tenderness
+146002,vomiting adverse event
+146003,scrotum
+146003,tenderness
+146003,nausea adverse event
+146003,testicular
+146003,catheter
+146003,lump
+146003,groin
+146003,painless
+146003,torsion
+146003,hernia
+146004,scrotal
+146004,bacteriuria
+146004,scrotum
+146004,dysuria
+146004,priapism
+146004,tunica
+146004,testicular
+146004,gynecomastia
+146004,balan
+146004,torsion
+146004,painless
+146004,hca
+146004,hernia
+146004,vein
+146004,abdomen
+146004,trident
+146004,mayo
+146004,prm
+146004,groin
+146004,swollen
+146004,sac
+146004,belli
+146004,swell
+146004,fluid
+146005,scrotum
+146005,tenderness
+146005,bacteriuria
+146005,dysuria
+146005,priapism
+146005,tunica
+146005,testicular
+146005,gynecomastia
+146005,balan
+146005,torsion
+146005,hernia
+146005,anesthesiologist
+146005,postop
+146005,caudal
+146005,marfan
+146005,bradycardia
+146005,groin
+146005,sac
+146005,fluctuant
+146005,seminoma
+146005,benign
+146005,lymph
+146005,cyst
+146006,tenderness
+146006,nausea adverse event
+146006,vomiting adverse event
+146006,scrotal
+146006,scrotum
+146006,testicular
+146006,catheter
+146006,lump
+146006,groin
+146006,swell
+146006,painless
+146006,torsion
+146006,hernia
+146006,epididymi
+146006,rosacea
+146006,semen
+146006,myeloma
+146006,copd
+146006,schizophrenia
+147001,infective pharyngitis
+147001,tenderness
+147001,tonsil
+147001,abscess
+147001,paracetamol
+147001,strep
+147001,sinus
+147001,swab
+147001,inflam
+147001,glandular
+147001,eap
+147001,croup
+147001,mycoplasma
+147001,diphtheria
+147001,gonorrhea
+147001,spleen
+147001,pox
+147002,chronic pharyngitis
+147002,tenderness
+147002,tonsil
+147002,abscess
+147002,paracetamol
+147002,strep
+147002,sinus
+147002,swab
+147002,inflam
+147002,glandular
+147002,eap
+147002,rosacea
+147002,myeloma
+147002,analges
+147002,reflux
+147002,copd
+147002,thrush
+147002,delirium
+147003,entire eye
+147004,infective pharyngitis
+147004,strep
+147004,niaid
+147004,tonsil
+147004,pharynx
+147004,penicillin
+147004,azithromycin
+147004,amoxicillin
+147004,erythromycin
+147004,bacterium
+147004,croup
+147004,mycoplasma
+147004,diphtheria
+147004,gonorrhea
+147004,spleen
+147004,sore
+147004,pox
+147004,rosacea
+147004,sinus
+147004,myeloma
+147004,analges
+147004,reflux
+147004,copd
+147004,thrush
+147004,delirium
+147005,sore throat
+147005,infective pharyngitis
+147005,strep
+147005,niaid
+147005,tonsil
+147005,pharynx
+147005,penicillin
+147005,azithromycin
+147005,amoxicillin
+147005,erythromycin
+147005,bacterium
+147006,sore throat
+147006,croup
+147006,strep
+147006,tonsil
+147006,mycoplasma
+147006,diphtheria
+147006,gonorrhea
+147006,spleen
+147006,pox
+148001,pusher
+148001,paranoia
+148001,lethal
+148001,heroin
+148001,misconduct
+148001,fed
+148001,physician
+148001,patient
+148002,exist
+148002,opioid analgesics
+148002,ahcpr
+148002,analges
+148002,fentanyl
+148002,metastat
+148002,unmet
+148002,imposit
+148002,pain
+148002,ap
+148002,csa
+148003,physician
+148003,pusher
+148003,paranoia
+148003,pain
+148003,lethal
+148003,chronic
+148003,heroin
+148003,misconduct
+148003,fed
+148003,patient
+148003,msir
+148003,enterovirus
+148003,entamoeba
+148003,forelimb
+148003,conjunctiva
+148003,cva
+148003,bruxism
+148003,aorta
+148003,croup
+148003,varicella
+148004,physician
+148004,pusher
+148004,paranoia
+148004,pain
+148004,lethal
+148004,chronic
+148004,heroin
+148004,misconduct
+148004,fed
+148004,patient
+148006,physician
+148006,analgesia
+148006,analges
+148006,iguana
+148006,pediatrician
+148006,disproportion
+148006,infant
+148006,thyroid
+148006,melissa
+148006,prepared
+149001,vision point in time patient
+149001,aspects of signs
+149002,cephalalgia
+149002,retin
+149002,ncbi
+149002,nlm
+149002,ocular
+149003,entire eye
+149003,transdermal patch
+149003,human patch material
+149003,lacrimal fluid sample
+149005,vision point in time patient
+149005,lacrimal fluid sample
+149006,vision point in time patient
+149006,transdermal patch
+149006,human patch material
+150001,penile erection
+150002,penile erection
+150003,reported bruising history
+150004,reported bruising history
+150005,monthly
